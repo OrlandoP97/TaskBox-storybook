@@ -1,0 +1,35 @@
+{
+  "files": {
+    "0.0e84dd4a.iframe.bundle.js": "./0.0e84dd4a.iframe.bundle.js",
+    "0.0e84dd4a.iframe.bundle.js.map": "./0.0e84dd4a.iframe.bundle.js.map",
+    "1.f3122400.iframe.bundle.js": "./1.f3122400.iframe.bundle.js",
+    "1.f3122400.iframe.bundle.js.map": "./1.f3122400.iframe.bundle.js.map",
+    "2.32b4b2cc.iframe.bundle.js": "./2.32b4b2cc.iframe.bundle.js",
+    "3.c2dd67f5.iframe.bundle.js": "./3.c2dd67f5.iframe.bundle.js",
+    "main.css": "./static/css/main.90a0a966.chunk.css",
+    "main.js": "./main.191e35ee.iframe.bundle.js",
+    "main.css.map": "./static/css/main.90a0a966.chunk.css.map",
+    "runtime~main.js": "./runtime~main.c41b5fcc.iframe.bundle.js",
+    "vendors~main.js": "./vendors~main.0c5b3d71.iframe.bundle.js",
+    "vendors~main.js.map": "./vendors~main.0c5b3d71.iframe.bundle.js.map",
+    "7.4c3010fa.iframe.bundle.js": "./7.4c3010fa.iframe.bundle.js",
+    "7.4c3010fa.iframe.bundle.js.map": "./7.4c3010fa.iframe.bundle.js.map",
+    "8.42c498fb.iframe.bundle.js": "./8.42c498fb.iframe.bundle.js",
+    "9.797ed4d3.iframe.bundle.js": "./9.797ed4d3.iframe.bundle.js",
+    "10.d41d832b.iframe.bundle.js": "./10.d41d832b.iframe.bundle.js",
+    "10.d41d832b.iframe.bundle.js.map": "./10.d41d832b.iframe.bundle.js.map",
+    "0.0e84dd4a.iframe.bundle.js.LICENSE.txt": "./0.0e84dd4a.iframe.bundle.js.LICENSE.txt",
+    "1.f3122400.iframe.bundle.js.LICENSE.txt": "./1.f3122400.iframe.bundle.js.LICENSE.txt",
+    "10.d41d832b.iframe.bundle.js.LICENSE.txt": "./10.d41d832b.iframe.bundle.js.LICENSE.txt",
+    "7.4c3010fa.iframe.bundle.js.LICENSE.txt": "./7.4c3010fa.iframe.bundle.js.LICENSE.txt",
+    "iframe.html": "./iframe.html",
+    "static/media/index.css": "./static/media/percolate.fae78e19.ttf",
+    "vendors~main.0c5b3d71.iframe.bundle.js.LICENSE.txt": "./vendors~main.0c5b3d71.iframe.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.c41b5fcc.iframe.bundle.js",
+    "vendors~main.0c5b3d71.iframe.bundle.js",
+    "static/css/main.90a0a966.chunk.css",
+    "main.191e35ee.iframe.bundle.js"
+  ]
+}
