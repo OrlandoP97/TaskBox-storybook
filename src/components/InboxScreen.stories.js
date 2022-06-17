@@ -48,6 +48,7 @@ export const Error = Template.bind({});
          },
        };
 
+       //comaents
           Default.play = async ({ canvasElement }) => {
              const canvas = within(canvasElement);
              // Waits for the component to transition from the loading state
